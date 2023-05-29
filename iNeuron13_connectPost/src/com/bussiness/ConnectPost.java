@@ -9,7 +9,7 @@ import java.sql.SQLException;
 
 class PostAccess {
 	int operation() {
-		String url = "jdbc:postgresql:///SaikrishnaDB";
+		String url = "jdbc:postgresql:///HemaDB";
 		String user = "root123";
 		String pass = "root";
 		String inputFile = "student.txt"; // Path to input file
