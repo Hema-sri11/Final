@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;StudentImpl.java&apos; to &apos;iNeuron05_classInter/src/com.dao&apos;&#x0D;&#x0A;- Original project: &apos;iNeuron05_classInter&apos;&#x0D;&#x0A;- Destination element: &apos;iNeuron05_classInter/src/com.dao&apos;&#x0D;&#x0A;- Original element: &apos;com.dto.StudentImpl.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;com.dao" element1="/src&lt;com.dto{StudentImpl.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1684507818875" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,13 @@
+package com.service;
+
+import com.model.Student;
+
+public class StudentServiceImpl implements IStudentService {
+
+	@Override
+	public String addData(Student student) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

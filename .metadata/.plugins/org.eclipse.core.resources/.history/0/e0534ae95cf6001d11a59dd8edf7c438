@@ -1,0 +1,8 @@
+package com.dao.abs;
+
+abstract class FacultyAbstract {
+     void show() {
+    	 System.out.println("Hello It is abstract class ");
+     }
+   
+}

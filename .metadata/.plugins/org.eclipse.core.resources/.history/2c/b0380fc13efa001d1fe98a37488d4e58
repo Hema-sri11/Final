@@ -1,0 +1,16 @@
+package com.util;
+
+public class JdbcUtil {
+
+	private JdbcUtil() {
+	}
+
+	static {
+		// step 1:loading and registering the Driver
+		try {
+			Class.forName("com.mysql.cj.jdbc.Driver");
+		} catch (ClassNotFoundException ce) {
+			ce.printStackTrace();
+		}
+	}
+}

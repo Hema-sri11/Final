@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.util.hibernateUtil&apos; to &apos;HibernateUtil&apos;&#x0D;&#x0A;- Original project: &apos;iNeuron18_hibernateSelect&apos;&#x0D;&#x0A;- Original element: &apos;com.util.hibernateUtil&apos;&#x0D;&#x0A;- Renamed element: &apos;com.util.HibernateUtil&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;hibernateUtil&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.util{hibernateUtil.java[hibernateUtil" matchStrategy="1" name="HibernateUtil" qualified="false" references="true" similarDeclarations="false" stamp="1685007705131" textual="false" version="1.0"/>
+</session>

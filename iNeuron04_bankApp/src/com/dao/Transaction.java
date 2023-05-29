@@ -1,0 +1,24 @@
+package com.dao;
+
+import java.sql.SQLException;
+
+public class Transaction {
+	public void history() {
+		Depositing d= new Depositing();
+		int val1=d.depoIn;
+		System.out.println("The amount deposite in last few times "+val1);
+		Transfer t= new Transfer();
+		int val2=t.transIn;
+		System.out.println("The amount Transfer in last few times "+val2);
+		Withdraw w= new Withdraw();
+		int val = w.withIn;
+		System.out.println("The amount Withdraw in last few times "+val);
+		System.out.println("\n");
+		ActionOnAccount aa= new ActionOnAccount();
+		try {
+			aa.furtherWork();
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+	}
+}

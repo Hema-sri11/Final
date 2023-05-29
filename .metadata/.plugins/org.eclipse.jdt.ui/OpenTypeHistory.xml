@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=iNeuron01_polymorphism/src&lt;com.dao{IShape.java[IShape" modifiers="513" timestamp="1683952078725"/>
+    <typeInfo handle="=iNeuron05_classInter/src&lt;com.dao{IStudent.java[IStudent" modifiers="513" timestamp="1684500603595"/>
+    <typeInfo handle="=iNeuron05_classInter/C:\/Users\/rishi\/Downloads\/eclipse-jee-2022-12-R-win32-x86_64\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;java.util.stream(IntStream.class[IntStream" modifiers="1537" timestamp="1675512202000"/>
+    <typeInfo handle="=iNeuron15_servletJdbc/src\/main\/java&lt;com.dao{IStudentDao.java[IStudentDao" modifiers="513" timestamp="1684939514809"/>
+    <typeInfo handle="=iNeuron15_servletJdbc/src\/main\/java&lt;com.service{IStudentService.java[IStudentService" modifiers="513" timestamp="1684940091410"/>
+</typeInfoHistroy>

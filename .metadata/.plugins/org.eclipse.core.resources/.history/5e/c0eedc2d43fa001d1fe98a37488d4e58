@@ -1,0 +1,14 @@
+package com.service;
+
+import com.dao.IStudentDao;
+import com.model.Student;
+
+public class StudentServiceImpl {
+	private IStudentDao dao = StudentDaoFactory.getStudentDao();
+
+	@Override
+	public String addData(Student student) {
+
+		return dao.addData(student);
+	}
+}

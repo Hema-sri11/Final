@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.in.dto;
+
+/**
+ * @author rishi
+ *
+ */
+public class Consumer {
+
+}

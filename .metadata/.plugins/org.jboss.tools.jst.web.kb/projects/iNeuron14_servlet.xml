@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/ecj-4.20.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/tomcat-websocket.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/tomcat-i18n-cs.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/tomcat-i18n-pt-BR.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/tomcat-i18n-ko.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/jaspic-api.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/tomcat-i18n-ja.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/tomcat-i18n-es.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/tomcat-api.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/tomcat-jdbc.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/tomcat-util-scan.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/websocket-api.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/el-api.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/servlet-api.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/tomcat-util.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/annotations-api.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/tomcat-i18n-fr.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/tomcat-dbcp.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/tomcat-i18n-de.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/catalina-tribes.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/catalina.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/tomcat-i18n-zh-CN.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/catalina-storeconfig.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/jasper.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/tomcat-jni.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/catalina-ant.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/catalina-ha.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/tomcat-coyote.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/catalina-ssi.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/tomcat-i18n-ru.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/jasper-el.jar"/>
+  <path value="C:/Users/rishi/Downloads/apache-tomcat-9.0.68-windows-x64/apache-tomcat-9.0.68/lib/jsp-api.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core"/>
+  <el>
+   <linked-el length="7" name="%0" offset="284" path="%1"/>
+   <linked-el length="7" name="%2" offset="217" path="%1"/>
+   <linked-el length="8" name="%3" offset="248" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="pass" value="%0"/>
+  <alias path="/iNeuron14_servlet/src/main/webapp/welcome.jsp" value="%1"/>
+  <alias path="name" value="%2"/>
+  <alias path="email" value="%3"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>

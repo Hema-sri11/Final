@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;iNeuron03_bankApp&apos; to &apos;iNeuron04_bankApp&apos;" description="Rename resource &apos;iNeuron03_bankApp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/iNeuron03_bankApp" name="iNeuron04_bankApp" stamp="1684469664311" updateReferences="true"/>
+</session>

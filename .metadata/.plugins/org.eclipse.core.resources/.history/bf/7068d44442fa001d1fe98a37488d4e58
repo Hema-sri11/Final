@@ -1,0 +1,13 @@
+package com.dao;
+
+import com.model.Student;
+
+public class StudentDaoImpl implements IStudentDao {
+
+	@Override
+	public String addData(Student student) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

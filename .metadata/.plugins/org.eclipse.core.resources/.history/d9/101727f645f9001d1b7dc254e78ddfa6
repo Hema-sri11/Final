@@ -1,0 +1,17 @@
+package com.bussiness;
+
+class PostAccess {
+   int operation() {
+	   String url = "jdbc:postgresql:///RishitaDB";
+	   
+	   return 0;
+   }
+}
+
+public class ConnectPost {
+
+	public static void main(String[] args) {
+
+	}
+
+}

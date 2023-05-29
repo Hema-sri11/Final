@@ -1,0 +1,16 @@
+127.0.0.1 - - [24/May/2023:07:23:34 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/May/2023:07:23:36 +0530] "GET /iNeuron14_servlet/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/May/2023:07:23:36 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [24/May/2023:07:23:56 +0530] "GET /iNeuron14_servlet/Controller?name=Rishita&email=rishitagupta790%40gmail.com&pass=Rishita HTTP/1.1" 200 236
+127.0.0.1 - - [24/May/2023:07:26:38 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/May/2023:07:26:38 +0530] "GET /iNeuron14_servlet/index.html HTTP/1.1" 200 579
+0:0:0:0:0:0:0:1 - - [24/May/2023:07:26:55 +0530] "GET /iNeuron14_servlet/index.html HTTP/1.1" 200 584
+0:0:0:0:0:0:0:1 - - [24/May/2023:07:26:56 +0530] "GET /iNeuron14_servlet/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/May/2023:07:26:57 +0530] "GET /iNeuron14_servlet/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/May/2023:07:26:59 +0530] "GET /iNeuron14_servlet/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/May/2023:07:28:06 +0530] "GET /iNeuron14_servlet/index.html HTTP/1.1" 200 587
+0:0:0:0:0:0:0:1 - - [24/May/2023:07:28:08 +0530] "GET /iNeuron14_servlet/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/May/2023:07:28:08 +0530] "GET /iNeuron14_servlet/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/May/2023:07:28:08 +0530] "GET /iNeuron14_servlet/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/May/2023:07:28:08 +0530] "GET /iNeuron14_servlet/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/May/2023:07:28:09 +0530] "GET /iNeuron14_servlet/index.html HTTP/1.1" 304 -

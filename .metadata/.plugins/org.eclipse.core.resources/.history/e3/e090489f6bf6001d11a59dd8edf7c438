@@ -1,0 +1,12 @@
+package com.dao.abs;
+
+public abstract class FacultyAbstract {
+	void show() {
+		System.out.println("Hello It is abstract class ");
+	}
+
+	abstract void add();
+
+	abstract int calculateSalary();
+
+}

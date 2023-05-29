@@ -1,0 +1,24 @@
+package com.dto;
+
+import com.dao.IStudent;
+import com.dao.StudentImpl;
+import com.dao.abs.Faculty;
+
+public class RunningClass {
+
+	public static void main(String[] args) {
+
+		Faculty f = new Faculty();
+		f.show();
+		f.add();
+		f.calculateSalary();
+
+		IStudent is = new StudentImpl();
+		is.walk();
+		is.eat();
+		is.run();
+		is.study();
+
+	}
+
+}

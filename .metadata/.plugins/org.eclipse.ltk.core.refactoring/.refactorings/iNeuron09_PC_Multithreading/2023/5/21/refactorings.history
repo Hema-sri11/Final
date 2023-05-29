@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Producer.java&apos; to &apos;iNeuron09_PC_Multithreading/src/com.in.dto&apos;&#x0D;&#x0A;- Original project: &apos;iNeuron09_PC_Multithreading&apos;&#x0D;&#x0A;- Destination element: &apos;iNeuron09_PC_Multithreading/src/com.in.dto&apos;&#x0D;&#x0A;- Original element: &apos;com.in.dto.Producer.java&apos;" description="Copy compilation unit" destination="/src&lt;com.in.dto" element1="/src&lt;com.in.dto{Producer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1684759657867" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,43 @@
+package com.dto;
+
+import com.dao.IStudent;
+
+public class RunningClass {
+
+	public static void main(String[] args) {
+		IStudent is= new IStudent() {
+			
+			@Override
+			public void walk() {
+				// TODO Auto-generated method stub
+				
+			}
+			
+			@Override
+			public void study() {
+				// TODO Auto-generated method stub
+				
+			}
+			
+			@Override
+			public void run() {
+				// TODO Auto-generated method stub
+				
+			}
+			
+			@Override
+			public String name() {
+				// TODO Auto-generated method stub
+				return null;
+			}
+			
+			@Override
+			public void eat() {
+				// TODO Auto-generated method stub
+				
+			}
+		};
+
+	}
+
+}

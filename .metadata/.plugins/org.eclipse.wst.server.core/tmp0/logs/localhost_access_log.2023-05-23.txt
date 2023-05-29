@@ -1,0 +1,10 @@
+127.0.0.1 - - [23/May/2023:14:42:12 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/May/2023:14:42:13 +0530] "GET /iNeuron14_servlet/ HTTP/1.1" 404 773
+0:0:0:0:0:0:0:1 - - [23/May/2023:14:42:13 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [23/May/2023:14:42:32 +0530] "GET /iNeuron14_servlet/index.html HTTP/1.1" 404 783
+0:0:0:0:0:0:0:1 - - [23/May/2023:14:42:38 +0530] "GET /iNeuron14_servlet/index.html HTTP/1.1" 404 783
+0:0:0:0:0:0:0:1 - - [23/May/2023:14:44:17 +0530] "GET /iNeuron14_servlet/ HTTP/1.1" 200 551
+0:0:0:0:0:0:0:1 - - [23/May/2023:14:44:19 +0530] "GET /iNeuron14_servlet/Controller?name=&email=&pass= HTTP/1.1" 200 29
+127.0.0.1 - - [23/May/2023:16:43:09 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/May/2023:16:43:10 +0530] "GET /iNeuron14_servlet/ HTTP/1.1" 200 551
+0:0:0:0:0:0:0:1 - - [23/May/2023:16:43:36 +0530] "GET /iNeuron14_servlet/Controller?name=Rishita+Gupta&email=rishitagupta790%40gmail.com&pass=rishita HTTP/1.1" 200 242
